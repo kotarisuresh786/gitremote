@@ -1,0 +1,2 @@
+# gitremote
+git first remote
